@@ -1,6 +1,6 @@
 # 👋 Hola, soy Daniel Hernández Daza
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:5b21b6,100:7c3aed&height=200&section=header&text=Backend%20%26%20Full%20Stack%20Developer&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=C%23%20%E2%80%A2%20.NET%20%E2%80%A2%20Node.js%20%E2%80%A2%20SQL&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Backend & Full Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:5b21b6,100:7c3aed&height=200&section=header&text=Backend%20%7C%20Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=.NET%20%7C%20Node.js%20%7C%20React%20%7C%20SQL%20Server&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Backend | Full Stack Developer" />
 
 <div align="center">
 
