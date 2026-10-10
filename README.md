@@ -1,15 +1,15 @@
+# 👋 Hola, soy Daniel Hernández Daza
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:5b21b6,100:7c3aed&height=200&section=header&text=Backend%20%26%20Full%20Stack%20Developer&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=C%23%20%E2%80%A2%20.NET%20%E2%80%A2%20Node.js%20%E2%80%A2%20SQL&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Backend & Full Stack Developer" />
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=220&section=header&text=Daniel%20Hernández%20Daza&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20de%20Software%20%7C%20Backend%20%26%20Full%20Stack&descAlignY=60&descSize=16" width="100%" alt="Daniel Hernández Daza" />
+💻 Desarrollador de Software en formación | SENA · Colombia 📍<br />
+🚀 C# • .NET • Node.js • React • SQL Server
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Construyendo+APIs+y+aplicaciones+web;Backend+con+C%23%2C+.NET+y+Node.js;Bases+de+datos+SQL+bien+dise%C3%B1adas;Aprendiendo+IA+y+cloud" alt="Animación de texto" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Construyendo+APIs+y+aplicaciones+web;Bases+de+datos+bien+dise%C3%B1adas;Aprendiendo+IA+y+cloud" alt="Animación de texto" />
 
 <br />
-
-<img src="https://img.shields.io/badge/SENA-An%C3%A1lisis%20y%20Desarrollo%20de%20Software-4C1D95?style=for-the-badge&logo=bookstack&logoColor=white" alt="SENA" />
-<img src="https://img.shields.io/badge/Colombia-312E81?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Colombia" />
-
-<br /><br />
 
 <a href="https://www.linkedin.com/in/daniel-nandez/">
   <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
