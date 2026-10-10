@@ -5,17 +5,17 @@
 <div align="center">
 
 💻 Desarrollador de Software en formación | SENA · Colombia 📍<br />
-🚀 C# • .NET • Node.js • React • SQL Server • Docker • IA
+🚀 C# • .NET • Node.js • React • SQL Server
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Construyendo+APIs+y+aplicaciones+web;Bases+de+datos+bien+dise%C3%B1adas;Aprendiendo+IA+y+cloud" alt="Animación de texto" />
 
 <br />
 
 <a href="https://www.linkedin.com/in/daniel-nandez/">
-  <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:danielhernandez115@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTIgNWgyMHYxNEgyeiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHBhdGggZD0iTTIgNWwxMCA4IDEwLTgiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIvPjwvc3ZnPg==" alt="Outlook" />
 </a>
 
 </div>
