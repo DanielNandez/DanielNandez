@@ -5,7 +5,7 @@
 <div align="center">
 
 💻 Desarrollador de Software en formación | SENA · Colombia 📍<br />
-🚀 C# • .NET • Node.js • React • SQL Server
+🚀 C# • .NET • Node.js • React • SQL Server • Docker • IA
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Construyendo+APIs+y+aplicaciones+web;Bases+de+datos+bien+dise%C3%B1adas;Aprendiendo+IA+y+cloud" alt="Animación de texto" />
 
